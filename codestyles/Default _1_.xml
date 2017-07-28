@@ -1,0 +1,7 @@
+<code_scheme name="Default (1)">
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
+    <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
+    <option name="PHPDOC_THROWS_CALL_TREE_ANALYSIS_DEPTH" value="1" />
+  </PHPCodeStyleSettings>
+</code_scheme>

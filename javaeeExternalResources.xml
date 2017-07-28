@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://symfony.com/schema/dic/services" location="$USER_HOME$/Library/Caches/PhpStorm2017.1/extResources/7f46d5c4_services-1.0.xsd" />
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<toolSet name="PHP Tools">
+  <tool name="CS Fixer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$/php-cs-fixer.phar" />
+      <option name="PARAMETERS" value="fix --config=$ProjectFileDir$/.php_cs $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

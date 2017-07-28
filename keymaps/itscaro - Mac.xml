@@ -1,0 +1,8 @@
+<keymap version="1" name="itscaro - Mac" parent="Mac OS X 10.5+">
+  <action id="QuickList.Deployment">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
+  <action id="QuickList.Tools">
+    <keyboard-shortcut first-keystroke="ctrl meta q" />
+  </action>
+</keymap>

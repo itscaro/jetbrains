@@ -1,0 +1,11 @@
+<keymap version="1" name="itscaro - Windows" parent="$default">
+  <action id="QuickList.Deployment">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="QuickList.Git">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="QuickList.Tools">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+</keymap>

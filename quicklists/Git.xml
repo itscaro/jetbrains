@@ -6,6 +6,7 @@
   <action id="Git.Reset" />
   <action id="CheckinFiles" />
   <action id="Git.ResolveConflicts" />
+  <action id="Git.Rebase" />
   <action id="QuickList.$Separator$" />
   <action id="Vcs.ShowTabbedFileHistory" />
   <action id="Annotate" />

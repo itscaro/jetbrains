@@ -3,15 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
       <mask>conf.yml</mask>
       <mask>con.yml</mask>
       <mask>co.yml</mask>
       <mask>c.yml</mask>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
-      <mask>*.twi</mask>
-      <mask>*.twig</mask>
       <mask>*.ml</mask>
       <mask>*</mask>
       <mask>*.yml|</mask>
@@ -34,6 +31,10 @@
       <mask>Entity*.php</mask>
       <mask>Entity/*.php</mask>
       <mask>*.php</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>

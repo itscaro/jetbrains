@@ -3,18 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>conf.yml</mask>
-      <mask>con.yml</mask>
-      <mask>co.yml</mask>
-      <mask>c.yml</mask>
-      <mask>*.ml</mask>
       <mask>*</mask>
       <mask>*.yml|</mask>
       <mask>*.xml</mask>
       <mask>.yml</mask>
-      <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
       <mask>*.</mask>
@@ -35,6 +28,12 @@
       <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
+      <mask>*.ytwig</mask>
+      <mask>*.ymltwig</mask>
+      <mask>*.ymlwig</mask>
+      <mask>*.ymlig</mask>
+      <mask>*.ymlg</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>

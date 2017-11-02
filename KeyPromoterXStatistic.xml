@@ -54,7 +54,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -94,7 +94,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Maj+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
     </option>

@@ -4,18 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*</mask>
-      <mask>*.yml|</mask>
-      <mask>*.xml</mask>
-      <mask>.yml</mask>
-      <mask>*.ym</mask>
-      <mask>*.y</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>y</mask>
-      <mask>ym</mask>
-      <mask>yml</mask>
       <mask>*yml</mask>
       <mask>E*.php</mask>
       <mask>En*.php</mask>
@@ -34,6 +22,18 @@
       <mask>*.ymlg</mask>
       <mask>*.yml</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
+      <mask>*.xml.</mask>
+      <mask>*.xml.p</mask>
+      <mask>*.xml.ph</mask>
+      <mask>*.xml.pht</mask>
+      <mask>*.xml.phtm</mask>
+      <mask>*.xml.phtml</mask>
     </recentFileMasks>
   </component>
 </application>

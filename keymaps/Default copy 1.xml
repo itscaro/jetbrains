@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy 1" parent="Default for XWin">
+  <action id="QuickList.Deployment">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="QuickList.Git">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+</keymap>

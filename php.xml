@@ -9,6 +9,13 @@
       <PhpCSConfiguration />
     </phpcs_settings>
   </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="docker://php:latest/php" id="fb2de6f0-bd8a-44b9-989b-538887c00216" name="php" debugger_id="php.debugger.XDebug">
+        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="php:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      </interpreter>
+    </interpreters>
+  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="php">
